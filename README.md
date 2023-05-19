@@ -1,4 +1,4 @@
 # Weight-initialization
 
-Sigmoid- Xavier/Glorat
-Relu- He
+- Sigmoid- Xavier/Glorat
+- Relu- He
