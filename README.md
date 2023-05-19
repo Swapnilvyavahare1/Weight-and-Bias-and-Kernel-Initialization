@@ -3,4 +3,4 @@
 - Relu- He
 
 # Bias tuning
-- tf.keras.initializer.constants
+- bias_initializer=tf.keras.initializers.Constant(value=bias)
